@@ -1,0 +1,14 @@
+import React, {componet} from 'react'
+
+class Ola extends Componet{
+  render(){
+    return(
+      <div>
+      <h1>Olá, mundo!</h1>
+      <p>Primeiros passos com ReactJS<p>
+      </div>
+    )
+  }
+} 
+
+export default Ola
